@@ -4,7 +4,8 @@ from ERP_Automation.utils.locators import Locators
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-from .test_login import login
+from .test_login import login  # Use relative import (dot before test_login)
+
 
 @pytest.fixture(scope="module")
 def setup():
