@@ -106,7 +106,7 @@ ERP_Automation/
 Want to improve this framework? Fork the repo, create a feature branch, and submit a pull request.  
 
 🔗 **Let's Connect:**  
-📧 [Your Email] | 🌐 [LinkedIn Profile] | 🐙 [GitHub Profile](https://github.com/dipamshahalian)  
+📧 dipampshah@gmail.com | 🌐 [[LinkedIn Profile]](https://www.linkedin.com/in/dipam-p-shah/) | 🐙 [GitHub Profile](https://github.com/dipamshahalian)  
 
 ---
 
