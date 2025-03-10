@@ -1,6 +1,5 @@
 # **ERP Automation Framework 🏢🤖 | Selenium & Python**  
 
-![ERP Automation](https://user-images.githubusercontent.com/00000000/erp-banner.png)  
 
 ### **🔹 Automate. Optimize. Elevate.**  
 This **Hybrid Automation Framework** is designed to automate ERP workflows, ensuring **seamless testing, enhanced accuracy, and reduced manual effort**. Built using **Selenium and Python**, it validates ERP functionalities through **UI automation, form validation, navigation testing, and cross-browser compatibility**.  
